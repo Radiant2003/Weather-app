@@ -7,7 +7,7 @@ const body = document.querySelector('body');
 
 
 const fetchResults = () => {
-      const APIKey = 'c0c5623ee520fc84a7958f52b595dc4d';
+      const APIKey = 'Your API key';
     const city = document.querySelector('.search-box input').value;
 
     if (city === '')
